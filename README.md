@@ -1,6 +1,9 @@
 # group-27
 Group coursework project for Napier University Software Engineering Methods with Ben, Laurence, Sam and Danny.
 
+ALL OF YOU HAVE SMALL PP
+DANNY WHY ARE YOU RACIST
+
 - Master build status: [![Build Status](https://travis-ci.com/dodo721/group-27.svg?branch=master)](https://travis-ci.com/dodo721/group-27)
 - Develop Build Status [![Build Status](https://travis-ci.com/dodo721/group-27.svg?branch=develop)](https://travis-ci.org/dodo721/group-27)
 - Licence: [![LICENSE](https://img.shields.io/github/license/dodo721/group-27.svg?style=flat-square)](https://github.com/dodo721/group-27/blob/master/LICENSE)
